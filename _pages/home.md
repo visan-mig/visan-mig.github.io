@@ -1,68 +1,17 @@
 ---
-title: "Allan Lab - Home"
+title: "VISAN-MIG - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Visual analytics for text-intensive social science research on immigration"
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+The two-year project “Visual analytics for text-intensive social science research on immigration” (VisAn-MIG) is based on harnessing an interdisciplinary research methodology bringing together computer science tools and social science qualitative methods in understanding changing perceptions and constructions of immigrants and refugees in Canada in the last two centuries. More specifically, it brings computer science into the realm of social science to enable social scientists to retrieve and analyze much larger document collections than what has traditionally been possible with qualitative document / textual analysis. This methodology consists of the integration of visual analytics (VA) with state-of-the-art machine learning and natural language processing (NLP). Deep language models pre-trained on massive news corpora are expected to effectively capture nuanced semantics in news sources. In this research program, VA tools will be developed and applied to conduct document analysis on historical immigration patterns and immigrant representations in two Canadian major national newspapers ([Globe and Mail](https://www.theglobeandmail.com/), and [Toronto Star](https://www.thestar.com/)). 
 
+Considering that immigration is an ongoing issue and an integral part of Canadian history, the study will explore how perceptions and construction of immigrants and refugees in news media have evolved in tandem with, and under the impact of Canada’s political economy and nation-building endeavours. By systematically tracing and investigating these, the project will shed light on the fundamental and dialectical role of immigrants and refugees, and related policies in Canada, with socio-economic processes, development outcomes and multicultural identity. To address the project’s research objectives, the computer science and social science teams will co-develop innovative VA tools to glean the body of documents that will further be analyzed through  critical discourse analysis (CDA), to reveal how the social structures of power, dominance and inequality are manifested over time through the shifting legislative and policy discourses in Canada in public perceptions of immigrants and refugees. 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
-    </ol>
+The outcomes of this pioneering project will affect the future of both computer and social sciences: 1) more documents will be available and accessible for elaborate research questions and answers, including  in the realms of parliamentary debate records, court decisions, scholarly publications, policy documents, written forms of art, and social media; 2) Computerized tools can be honed for the retrieval, organization, conceptualization and summarization of large amounts of text in these and other relevant realms; 3) Understanding the changing, and often contradictory, perceptions/constructions of immigrants/refugees in Canadian history, and how these are systematically connected to specific economic, demographic, and political developments in the ongoing making of the Canadian state will be of great benefit to scholars, policy-makers and the broader public. The project may debunk certain taken-for-granted “truths” about Canada but it can also help shape more informed policy to cope with economic and social challenges of the 21st century.
 
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
-        </div>
-    </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-
-
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
