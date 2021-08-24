@@ -1,100 +1,20 @@
-- name: Milan P Allan
+- name: Evangelia (Evie) Tastsoglou
   photo: Milan1.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  info: Professor of Sociology and International Development Studies, Saint Mary’s University
+  role: Co-PI
+  email: evie.tastsoglou@smu.ca
+  description: Dr. Tastsoglou is currently Coordinator of the International Development Studies Program at SMU, Vice-President of the Canadian Ethnic Studies Association, and elected member of the Research Council and Executive  of the International Sociological Association She is the former President of RC 32 (the Research Committee on Women in Society) of the ISA (2010-2014) and has served as Chairperson of the Department of Sociology and Criminology at Saint Mary’s University (2006-2012). <br> With sociological and legal training Dr. Tastsoglou has over twenty five years of expertise in working with gender and immigrant women in Canada and internationally. As founder and leader of the Gender Domain of the Atlantic Metropolis Centre of Excellence (2003-2013) she led multiple projects on various aspects of migration with a gender-based and intersectional analysis. Her research, published in national and international peer-reviewed venues, engages women, gender and various aspects of international migration; Canadian immigration and integration; violence, citizenship, transnationalism and diasporas.
 
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
-
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: Postdoc, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: PhD with Milan Allan, Leiden University
-  education2: Master Leiden University with Milan Allan
-
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
-
-- name: Jinwon Lee
-  photo: Jinwon.jpg
-  info: Postdoc, started July 2021
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
-  education2: BSc Pohang University of Science and Technology (POSTECH)
-
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-  education3:
-  education4:
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+- name: Evangelos Milios
+  photo: Milan1.jpg
+  info: Professor of Computer Science, Dalhousie University
+  role: PI
+  email: eem@cs.dal.ca
+  description: Dr. Milios received a Dipl. Eng. from the NTUA, Athens, Greece, and Master''s, EE, and Ph.D. degrees in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology. He served as Research Associate at the University of Toronto, and as Associate Professor at York University. Since 1998 he has been with the Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, where he served as Director of the Graduate Program (1999-2002) and as Associate Dean - Research (2008-2017). He is a Senior Member of the IEEE. At Dalhousie, he held the Killam Chair of Computer Science (2006-2011), he is University Research Professor since 2017, and Scientific Director of DeepSense, an innovation engine for ocean data analytics. He served as a member and Chair of the NSERC Computer Science Evaluation Group for the Discovery Grants program. His main research is on modelling and mining of content and link structure of Networked Information Spaces, text mining and visual text analytics.
+  
+ - name: Eunjeong (Eugena) Kwon
+   photo: Milan1.jpg
+   info: Professor of Sociology, Saint Mary’s University
+   role: Co-applicant
+   email: eunjeong.kwon@smu.ca
+   description: Eugena Kwon an Assistant Professor in the Department of Sociology. She holds a Collaborative Ph.D. in Sociology & Migration and Ethnic Relations (MER) from Western University. She specializes in the following four inter-related research areas: (1) international migration (e.g., post-migration integration and settlement experiences of immigrants and international students); (2) sociology of work and occupations; (3) gender and professions; and (4) population health and well-being. She currently holds multiple externally funded projects from various sources (e.g., SSHRC, NSERC, and CLARI) – involving close collaboration with community partners. Her work has been published in <i>Gender Issues</i>, <i>AIDS Care</i>, <i>Sleep Health</i>, <i>Canadian Ethnic Studies</i>, <i>Journal of Immigrant and Minority Health</i> and more.
