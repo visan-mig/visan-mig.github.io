@@ -6,6 +6,15 @@ sitemap: false
 permalink: /teampubs/
 ---
 
+<style>
+:target::before {
+  content: "";
+  display: block;
+  height: 60px; /* fixed header height*/
+  margin: -60px 0 0; /* negative fixed header height */
+}
+</style>
+
 # VisAn-MIG Publications of Team Members
 
 <div id="evie"></div>
@@ -106,4 +115,4 @@ R. Makki, E. Carvalho, <strong>A.J. Soto</strong>, S. Brooks, M.C. Ferreira de O
 
 N. Nguyen, <strong>A.J. Soto</strong>, G. Kontonatsios, R. Batista-Navarro, S. Ananiadou. &quot;Constructing a Biodiversity Terminological Inventory&quot;. PLOS ONE, 12(4): e0175277, 2017. [<a href="https://doi.org/10.1371/journal.pone.0175277">paper</a>][<a href="http://journals.plos.org/plosone/article/citation/bibtex?id=10.1371/journal.pone.0175277">bibtex</a>][<a href="http://metashare.metanet4u.eu/go2/bhl_inventory">data</a>][<a href="http://nactem.ac.uk/BHLQueryExpansion/Video/termInventorySearch.mp4">video</a>][<a href="http://nactem.ac.uk/BHLQueryExpansion/" target="_blank">demo</a>]
 
-<strong>A.J. Soto</strong>, R. Kiros, V. Keselj, E. Milios. &quot;Exploratory Visual Analysis and Interactive Pattern Extraction from Semi-Structured Data&quot;, ACM Transactions on Interactive and Intelligent Systems. Vol 5, 3, Article 16, 2015. [<a href="http://dl.acm.org/citation.cfm?id=2821459.2812115&coll=DL&dl=ACM&CFID=524997128&CFTOKEN=39819232" target="_blank">paper</a>][<a href="https://scholar.google.ca/scholar.bib?q=info:nLJZMHMjshUJ:scholar.google.com/&output=citation&hl=en&ct=citation&cd=0" target="_blank">bibtex</a>][<a href="https://github.com/axelsoto/dtCSM_unsupervised" target="_blank">code1</a>][<a href="https://github.com/axelsoto/FUSC" target="_blank">code2</a>][<a href="https://youtu.be/8z_TW55jOxU" target="_blank">video1</a>][<a href="https://youtu.be/b3xKCPehM9I" target="_blank">video2</a>][<a href="https://youtu.be/Vm-dPTo-cIs" target="_blank">video3</a>]&nbsp;<strong><span style='color:red;'>2015 TiiS Best Paper Award</strong>
+<strong>A.J. Soto</strong>, R. Kiros, V. Keselj, E. Milios. &quot;Exploratory Visual Analysis and Interactive Pattern Extraction from Semi-Structured Data&quot;, ACM Transactions on Interactive and Intelligent Systems. Vol 5, 3, Article 16, 2015. [<a href="http://dl.acm.org/citation.cfm?id=2821459.2812115&coll=DL&dl=ACM&CFID=524997128&CFTOKEN=39819232" target="_blank">paper</a>][<a href="https://scholar.google.ca/scholar.bib?q=info:nLJZMHMjshUJ:scholar.google.com/&output=citation&hl=en&ct=citation&cd=0" target="_blank">bibtex</a>][<a href="https://github.com/axelsoto/dtCSM_unsupervised" target="_blank">code1</a>][<a href="https://github.com/axelsoto/FUSC" target="_blank">code2</a>][<a href="https://youtu.be/8z_TW55jOxU" target="_blank">video1</a>][<a href="https://youtu.be/b3xKCPehM9I" target="_blank">video2</a>][<a href="https://youtu.be/Vm-dPTo-cIs" target="_blank">video3</a>]<span style='color:red;'><strong>2015 TiiS Best Paper Award</strong></span>
