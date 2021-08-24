@@ -1,20 +1,48 @@
 - name: Evangelia (Evie) Tastsoglou
-  photo: Milan1.jpg
+  photo: evie.png
   info: Professor of Sociology and International Development Studies, Saint Mary’s University
   role: Co-PI
   email: evie.tastsoglou@smu.ca
   description: Dr. Tastsoglou is currently Coordinator of the International Development Studies Program at SMU, Vice-President of the Canadian Ethnic Studies Association, and elected member of the Research Council and Executive  of the International Sociological Association She is the former President of RC 32 (the Research Committee on Women in Society) of the ISA (2010-2014) and has served as Chairperson of the Department of Sociology and Criminology at Saint Mary’s University (2006-2012). <br> With sociological and legal training Dr. Tastsoglou has over twenty five years of expertise in working with gender and immigrant women in Canada and internationally. As founder and leader of the Gender Domain of the Atlantic Metropolis Centre of Excellence (2003-2013) she led multiple projects on various aspects of migration with a gender-based and intersectional analysis. Her research, published in national and international peer-reviewed venues, engages women, gender and various aspects of international migration; Canadian immigration and integration; violence, citizenship, transnationalism and diasporas.
 
 - name: Evangelos Milios
-  photo: Milan1.jpg
+  photo: evangelos.png
   info: Professor of Computer Science, Dalhousie University
   role: PI
   email: eem@cs.dal.ca
   description: Dr. Milios received a Dipl. Eng. from the NTUA, Athens, Greece, and Master''s, EE, and Ph.D. degrees in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology. He served as Research Associate at the University of Toronto, and as Associate Professor at York University. Since 1998 he has been with the Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, where he served as Director of the Graduate Program (1999-2002) and as Associate Dean - Research (2008-2017). He is a Senior Member of the IEEE. At Dalhousie, he held the Killam Chair of Computer Science (2006-2011), he is University Research Professor since 2017, and Scientific Director of DeepSense, an innovation engine for ocean data analytics. He served as a member and Chair of the NSERC Computer Science Evaluation Group for the Discovery Grants program. His main research is on modelling and mining of content and link structure of Networked Information Spaces, text mining and visual text analytics.
   
 - name: Eunjeong (Eugena) Kwon
-  photo: Milan1.jpg
+  photo: eugena.png
   info: Professor of Sociology, Saint Mary’s University
   role: "Co-applicant"
   email: eunjeong.kwon@smu.ca
   description: "Eugena Kwon an Assistant Professor in the Department of Sociology. She holds a Collaborative Ph.D. in Sociology & Migration and Ethnic Relations (MER) from Western University. She specializes in the following four inter-related research areas: (1) international migration (e.g., post-migration integration and settlement experiences of immigrants and international students); (2) sociology of work and occupations; (3) gender and professions; and (4) population health and well-being. She currently holds multiple externally funded projects from various sources (e.g., SSHRC, NSERC, and CLARI) – involving close collaboration with community partners. Her work has been published in <i>Gender Issues</i>, <i>AIDS Care</i>, <i>Sleep Health</i>, <i>Canadian Ethnic Studies</i>, <i>Journal of Immigrant and Minority Health</i> and more."
+
+- name: Mariano Maisonnave
+  photo: mariano.png
+  info: Postdoctoral fellow at Faculty of Computer Science, Dalhousie University
+  role: Researcher
+  email: maisonnavemariano@gmail.com
+  description: "Mariano Maisonnave holds an engineering degree in computer systems from Universidad Nacional del Sur (2016), Argentina. Currently, he is in the last semester of his Ph.D. in Computer Sciences from the same institution, expecting to join the project Visual analytics for text-intensive social science research on immigration (VisAn-MIG) lab as a postdoc. As part of his graduate studies, Mariano received an Encouragement of Scientific Vocations Scholarship granted by the National Interuniversity Council (CIN), Argentina. His work during that time focused on Adaptive learning Applied to Contextualized Information Retrieval. Later he received a full doctoral scholarship granted by the Argentinian National Scientific and Technical Research Council (CONICET), to pursue a doctorate in Computer Science under the supervision of the Dra. Ana G. Maguitman and Dr. Fernando A. Tohmé. The main research topics include causality structure learning, econometrics, natural language processing, and machine learning. During his Ph.D., he received additional scholarships and recognitions: Emerging Leaders in the Americas (ELAP) Program (2019) and Google Latin America Research Awards (2019 and 2020). In addition to his research work, he is also Head of Teaching Assistants in an Object-oriented programming course, and Teaching Assistant in a Computer Networking course, and in another on Embedded Systems."
+
+- name: Serperi Sevgur
+  photo: serperi.png
+  info: Postdoctoral Fellow, Department of Sociology and International Development Studies
+  role: Researcher
+  email: Serperi.sevgur@smu.ca
+  description: Dr. Sevgur is a sociologist with research and teaching interests in contemporary political economy, gender, and international migration. Her research examines issues of feminization of work, skills, and migration in the context of local and global inequalities, in addition to gender dynamics, and family relations across transnational spaces. Her latest field work was in Georgia and Turkey, which focused on the paid and unpaid social reproductive labour power of post-Soviet female migrants who work as live-in domestic workers in Istanbul. In Canada, she has studied various ethnic migrant groups, and explored the role of transnational and diasporic networks regarding sense of belonging and identification in Atlantic Canada and other provinces. Dr. Sevgur is actively engaged with subjects of migration and settlement by taking part in research projects which evaluate settlement programs, and in forums that are designed for knowledge transfer and policy formulation.
+
+- name: Ana Maguitman
+  photo: ana.png
+  info: Computer Science and Engineering Department, Universidad Nacional del Sur
+  role: Collaborator
+  email: agm@cs.uns.edu.ar
+  description: "Dr. Ana Maguitman’s research interests lie in the design and development of tools for information access in context. She is also interested in other formal and empirical aspects of artificial intelligence, knowledge capture, and information retrieval. She is a researcher at the Scientific and Technical Research Council of Argentina (CONICET). More on her research: <a href=\"http://ir.cs.uns.edu.ar/\">Here</a>"
+
+- name: Axel J. Soto
+  photo: axel.png
+  info: Instituto de Ciencias e Ingeniería de la Computación (CONICET-UNS)
+  role: Collaborator
+  email: axel.soto@cs.uns.edu.ar
+  description: "Axel Soto is a researcher at the Institute for Computer Science and Engineering (ICIC), which belongs to CONICET and Universidad Nacional del Sur. Before joining CONICET he worked at The University of Manchester and the National Centre for Text Mining (NaCTeM). Previous to this position, he worked at Dalhousie University for the Visual Text Analytics Group and the MALNIS (Machine Learning and Networked Information Spaces) group. His main research areas are as follows: (Visual) Text Analytics The overall goal in text analytics is to extract actionable insights form large collections of text documents. The approach typically taken is by combining text mining and interactive visualizations so that the user is kept in the loop. Cheminformatics Interested in designing and developing machine learning methods to analyze patterns and quantitatively predict properties on chemical data."
