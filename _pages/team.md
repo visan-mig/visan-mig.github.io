@@ -17,9 +17,9 @@ permalink: /team/
 
   <div class="col clearfix">
     {% if rem == 0 %}
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
     {% else %}
-      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: right" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: right" />
     {% endif %}
     <h4>{{ member.name }}</h4>
     <p><i>{{ member.info }}</i></p>
