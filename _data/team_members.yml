@@ -1,5 +1,6 @@
 - name: Evangelia (Evie) Tastsoglou
   photo: evie.png
+  short: evie
   info: Professor of Sociology and International Development Studies, Saint Mary’s University
   role: Co-PI
   email: evie.tastsoglou@smu.ca
@@ -7,6 +8,7 @@
 
 - name: Evangelos Milios
   photo: evangelos.png
+  short: evangelos
   info: Professor of Computer Science, Dalhousie University
   role: PI
   email: eem@cs.dal.ca
@@ -14,6 +16,7 @@
   
 - name: Eunjeong (Eugena) Kwon
   photo: eugena.png
+  short: eugena
   info: Professor of Sociology, Saint Mary’s University
   role: "Co-applicant"
   email: eunjeong.kwon@smu.ca
@@ -21,6 +24,7 @@
 
 - name: Mariano Maisonnave
   photo: mariano.png
+  short: mariano
   info: Postdoctoral fellow at Faculty of Computer Science, Dalhousie University
   role: Researcher
   email: maisonnavemariano@gmail.com
@@ -28,6 +32,7 @@
 
 - name: Serperi Sevgur
   photo: serperi.png
+  short: serperi
   info: Postdoctoral Fellow, Department of Sociology and International Development Studies
   role: Researcher
   email: Serperi.sevgur@smu.ca
@@ -35,6 +40,7 @@
 
 - name: Ana Maguitman
   photo: ana.png
+  short: ana
   info: Computer Science and Engineering Department, Universidad Nacional del Sur
   role: Collaborator
   email: agm@cs.uns.edu.ar
@@ -42,6 +48,7 @@
 
 - name: Axel J. Soto
   photo: axel.png
+  short: axel
   info: Instituto de Ciencias e Ingeniería de la Computación (CONICET-UNS)
   role: Collaborator
   email: axel.soto@cs.uns.edu.ar

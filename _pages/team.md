@@ -25,6 +25,7 @@ permalink: /team/
   <p><i>{{ member.info }}</i></p>
   <p>Role: <b>{{ member.role }}</b></p>
   <p> {{ member.description }} </p>
+  <p><a href="{{ site.url }}{{ site.baseurl }}/teampubs#{{ member.short }}">For a list of selected publications of this team member, click here.</a></p>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
