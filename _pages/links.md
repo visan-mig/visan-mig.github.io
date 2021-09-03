@@ -8,6 +8,8 @@ permalink: /links.html
 
 # Links to Useful Resources
 
+<br>
+
 ## Section 1
 
 Here are some links: [Google's Homepage](https://www.google.com)
