@@ -1,9 +1,9 @@
 ---
-title: "About the website"
+title: "VisAn-MIG -- Links"
 layout: textlay
-excerpt: "About the website."
+excerpt: "VisAn-MIG -- Links"
 sitemap: false
-permalink: /aboutwebsite.html
+permalink: /links.html
 ---
 
 # Links to Useful Resources
