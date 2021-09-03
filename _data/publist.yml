@@ -6,4 +6,5 @@
     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
     display:  Phys. Rev. Research 3, 013153
   highlight: 1
-  news: Featured in the Chronicle herald! Click [here](https://google.com)
+  news1: This line of text will be highlighted! Featured in the Chronicle herald! Click [here](https://google.com)
+  news2: This line of text will not be highlighted and is for news highlights that you do not want in red.
