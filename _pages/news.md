@@ -15,4 +15,6 @@ permalink: /news.html
 <p><b>{{ article.headline }}</b></p>
 <p>{{ article.content }}</p>
 <br>
+<hr>
+<br>
 {% endfor %}
