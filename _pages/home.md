@@ -18,3 +18,5 @@ The outcomes of this pioneering project will affect the future of both computer 
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SMU.png" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NewFrontiers.png" style="width: 200px">
 </figure>
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_sshrc.jpg" style="width: 500px">
