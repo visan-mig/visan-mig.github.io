@@ -17,3 +17,5 @@ permalink: /news.html
 {{ article.content }}
 <br>
 {% endfor %}
+
+<br>
