@@ -14,6 +14,6 @@ permalink: /news.html
 <hr>
 <h5>{{ article.date }}</h3>
 <h3><b>{{ article.headline }}</b></h3>
-{{ article.content }}
+<p>{{ article.content }}</p>
 <br>
 {% endfor %}
