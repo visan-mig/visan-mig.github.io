@@ -12,6 +12,6 @@
   headline: |-
              "News item 1!": Demonstrating Colons too!
   content: |- 
-            Testing content. This is content! This is how you add a link to another site in a blog post. 
-            Same way you do it [anywhere!](https://google.com). Here is an example of linking to a PDF
-            in the PDFs folder. [click here for a PDF!](/pdfs/pdf-test.pdf)
+            Testing content. This is content! This is how you add a link to another site in a blog post.  
+            Same way you do it [anywhere!](https://google.com). Here is an example of linking to a PDF  
+            in the PDFs folder. [click here for a PDF!](/pdfs/pdf-test.pdf)  
