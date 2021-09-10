@@ -1,11 +1,8 @@
-# Allan Lab Website
+# VisAn-MIG Website
 
-This is the website of our academic research group at Leiden University.
+This website is for the VisAn-MIG Project (collaboration between Saint Mary's University and Dalhousie University in Halifax, Nova Scotia, Canada).
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
+This website is based on code released by the Allan Lab at Leiden University.
 
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
-
-
-Copyright Allan Lab. Code released under the MIT License.
+Code released under the MIT License.
 
