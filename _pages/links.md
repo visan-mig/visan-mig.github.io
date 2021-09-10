@@ -25,3 +25,9 @@ Here is another link: [Hotmail](https://hotmail.com)
 <br>
 <br>
 <br>
+
+
+
+## Museums of Immigration
+
+[Canadian Museum of Immigration at Pier 21](https://pier21.ca/home)
