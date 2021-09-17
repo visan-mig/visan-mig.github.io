@@ -20,3 +20,4 @@ permalink: /links.html
 ## Museums of Immigration
 
 [Canadian Museum of Immigration at Pier 21](https://pier21.ca/home)
+[Canadian Muesum of History](https://www.historymuseum.ca/)
