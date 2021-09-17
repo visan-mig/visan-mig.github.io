@@ -25,3 +25,7 @@ permalink: /links.html
 ### [Canadian Muesum of History](https://www.historymuseum.ca/)
 
 <br>
+### [Canadian Museum for Human Rights](https://humanrights.ca/)
+
+<br>
+### [National Immigration Museum Ellis Island](https://www.statueofliberty.org/ellis-island/national-immigration-museum/)
