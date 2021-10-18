@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-#### **Vis**ual **An**alytics for text-intensive social science research on im**mig**ration
+#### **Vis**ual **An**alytics for Text-Intensive Social Science Research on Im**mig**ration
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_DAL.png" style="width: 200px">
