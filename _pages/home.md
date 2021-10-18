@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-### Visual analytics for text-intensive social science research on immigration
+##### Visual analytics for text-intensive social science research on immigration
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_DAL.png" style="width: 200px">
