@@ -1,10 +1,10 @@
-- title: "Test publication"
+- title: "Coming Soon"
   image: cover.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+  description: No publications as of yet, coming soon!
+  authors: E Milios, E Tastsoglou, et. al.
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153
+    url: http://google.com
+    display:  Test link to google.com!
   highlight: 1
-  news1: This line of text will be highlighted! Featured in the Chronicle herald! Click [here](https://google.com)
+  news1: This line of text will be highlighted! Click [here](https://google.com)
   news2: This line of text will not be highlighted and is for news highlights that you do not want in red.
