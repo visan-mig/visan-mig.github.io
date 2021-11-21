@@ -34,4 +34,6 @@ permalink: /team/
 
 {% endfor %}
 
+<h4>The Social Science Team</h4>
+
 <img src="{{ site.url}}{{ site.baseurl }}/images/teampic/socsci-team.jpg" class="img-responsive" width="65%" class="display: block; margin-left: auto; margin-right: auto" />
