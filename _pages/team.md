@@ -33,3 +33,5 @@ permalink: /team/
 </div>
 
 {% endfor %}
+
+<img src="{{ site.url}}{{ site.baseurl }}/images/teampic/socsci-team.png" class="img-responsive" width="50%" />
