@@ -1,12 +1,12 @@
 - title: "SMU Expo 2022"
-  image: /pdfs/{Expo Poster final }.pdf
+  image: {Expo Poster final }.pdf
   description: Team poster
   authors: S Sevgur, M Maisonnave, E Kwon, E Tastsoglou, E Milios, A Maguitman, A Soto
   link: 
     url: /pdfs/{Expo presentation 2}.pdf
     display: Our presentation
   highlight: 1
-  news1: For a snapshot click [here]{expophoto1}.pdf
+  news1: For a snapshot click [here](expophoto1.pdf)
   news2: Our team presented a poster at the SMU Expo 2022, in Halifax on April 29th. We delivered a 3 minute speech to a conference room full of participants!
   
   
