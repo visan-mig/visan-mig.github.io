@@ -11,13 +11,3 @@
   
   
 
-- title: "Coming Soon"
-  image: cover.png
-  description: No publications as of yet, coming soon!
-  authors: E Milios, E Tastsoglou, et. al.
-  link:
-    url: http://google.com
-    display:  Test link to google.com!
-  highlight: 1
-  news1: This line of text will be highlighted! Click [here](https://google.com)
-  news2: This line of text will not be highlighted and is for news highlights that you do not want in red.
