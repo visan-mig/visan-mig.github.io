@@ -1,6 +1,16 @@
+- title: "CSA Conference 2022"
+  image: CSAprogram.png
+  description: Searching for the "Ideal" Canadian Immigrant: Selection Policies and Processes Among Post World War II Displaced Persons
+  authors: S Sevgur, E Tastsoglou, E Kwon, U Acikgoz
+  link:
+    url: /pdfs/CSAprogram.png
+    display: Our presentation
+  highlight: 1
+  news1: We presented at the CSA Conference 2022, FHSS Congress, on May 17th
+
 - title: "SMU Expo 2022"
   image: Expo poster.png
-  description: Team poster
+  description: Computing Social Constructions: Visual Analytics for Text-Intensive Research on Immigration
   authors: S Sevgur, M Maisonnave, E Kwon, E Tastsoglou, E Milios, A Maguitman, A Soto
   link: 
     url: /pdfs/Expo presentation 2.pdf
