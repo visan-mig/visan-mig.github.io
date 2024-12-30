@@ -27,4 +27,4 @@ jobs:
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          ruby-version: '3.2'
+          bundler_version: '2.4.22'  # Specify a compatible bundler version
