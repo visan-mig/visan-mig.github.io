@@ -9,22 +9,18 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      
-      - name: Set up Ruby
+      - uses: actions/checkout@v3
+
+      - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'
+          ruby-version: '3.1.0'
           bundler-cache: true
-      
-      - uses: actions/cache@v2
+
+      - name: Build and Deploy
+        uses: jeffreytse/jekyll-deploy-action@v0.5.1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-      
-      - uses: helaili/jekyll-action@v2
-        with:
+          provider: 'github'
           token: ${{ secrets.GITHUB_TOKEN }}
-          bundler_version: '2.4.22'  # Specify a compatible bundler version
+          branch: 'gh-pages'         # Default deployment branch
+          jekyll_src: './'           # Jekyll source directory
