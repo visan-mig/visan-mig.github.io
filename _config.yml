@@ -1,17 +1,8 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: The Allan Lab
-email: your-email@domain.com
+# Previous settings remain unchanged...
+title: Visan-MIG
+email: visan-mig@smu.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The two-year project “Visual analytics for text-intensive social science research on immigration” (VisAn-MIG) is based on harnessing an interdisciplinary research methodology bringing together computer science tools and social science qualitative methods in understanding changing perceptions and constructions of immigrants and refugees in Canada in the last two centuries.
 baseurl: ""
 url: ""
 
@@ -19,6 +10,27 @@ include:
   - .htaccess
   - _pages
 
+# Add collections configuration
+collections:
+  news_items:
+    output: true
+    permalink: /news/:year/:month/:day/:title/
+
+# Add pagination plugin
+plugins:
+  - jekyll-paginate-v2
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+# Existing settings remain unchanged...
 sass:
   sass_dir: _sass
 
@@ -28,8 +40,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
-
 
 # Markdown Processing
 kramdown:
@@ -41,5 +51,4 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
-
+  parse_block_html: true

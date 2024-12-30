@@ -1,21 +1,46 @@
 ---
-title: "News"
-layout: textlay
-excerpt: "VisAn-MIG."
+title: "VisAn-MIG - News"
+layout: gridlay
+excerpt: "VisAn-MIG -- News."
 sitemap: false
-permalink: /news.html
+permalink: /news/
+pagination:
+  enabled: true
+  collection: news_items
+  per_page: 10
+  sort_field: date
+  sort_reverse: true
 ---
 
-# News
+<div class="col-sm-12">
+<h1>News</h1>
+</div>
 
-<br>
-
-{% for article in site.data.news %}
-<hr>
-<h5>{{ article.date }}</h5>
-<h3><b>{{ article.headline }}</b></h3>
-{{ article.content }}
-<br>
+<div class="row">
+<div class="col-sm-12 clearfix">
+{% for post in paginator.posts %}
+<div class="well">
+  <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
+  <pubtit>{{ post.title }}</pubtit>
+  <p><em>{{ post.source }}: "{{ post.headline }}"</em></p>
+  {{ post.content }}
+</div>
 {% endfor %}
 
-<br>
+<!-- Pagination links -->
+<div class="pagination text-center">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">&laquo; Previous</a>
+  {% endif %}
+  
+  <span class="page_number">
+    Page {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next &raquo;</a>
+  {% endif %}
+</div>
+
+</div>
+</div>

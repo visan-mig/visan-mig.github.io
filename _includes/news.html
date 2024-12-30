@@ -1,12 +1,12 @@
-
 <div class="well">
-<h4>News</h4>
-
-{% for article in site.data.news limit:9 %}
-{{ article.date }}
-<p><b>{{ article.headline }}</b></p>
-{% endfor %}
-
-<h4><a href="{{ site.url }}{{ site.baseurl }}/news">... see all News</a></h4>
-
+    <h4>News</h4>
+    
+    {% assign sorted_news = site.news_items | sort: 'date' | reverse %}
+    {% for article in sorted_news limit:9 %}
+    {{ article.date | date: "%-d %B %Y" }}
+    <p><b><a href="{{ article.url }}">{{ article.title }}</a></b></p>
+    {% endfor %}
+    
+    <h4><a href="{{ site.url }}{{ site.baseurl }}/news">... see all News</a></h4>
+    
     </div>
