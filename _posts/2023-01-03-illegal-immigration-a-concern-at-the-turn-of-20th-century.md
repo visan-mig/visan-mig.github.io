@@ -4,8 +4,8 @@ title: Illegal immigration a concern at the turn of 20th century
 date: '2023-01-03'
 source: Globe and Mail, 1900
 headline: U.S. Immigrants
-pdf_link: "{ site.baseurl }/pdfs/news25.pdf"
-category: findings
+pdf_link: "{{ site.baseurl }}/pdfs/news25.pdf"
+category: news
 ---
 
 [U.S. Immigrants]({{ site.baseurl }}/pdfs/news25.pdf)
