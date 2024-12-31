@@ -3,13 +3,7 @@ title: "VisAn-MIG - News"
 layout: gridlay
 excerpt: "VisAn-MIG -- News."
 sitemap: false
-permalink: /news/
-pagination:
-  enabled: true
-  collection: news_items
-  per_page: 10
-  sort_field: date
-  sort_reverse: true
+permalink: /
 ---
 
 <div class="col-sm-12">
@@ -41,6 +35,5 @@ pagination:
     <a href="{{ paginator.next_page_path }}" class="next">Next &raquo;</a>
   {% endif %}
 </div>
-
 </div>
 </div>
