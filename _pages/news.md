@@ -18,7 +18,7 @@ pagination:
 
 <div class="row">
 <div class="col-sm-12 clearfix">
-{% for post in paginator.posts %}
+{% for post in paginator.collections.news_items %}
 <div class="well">
   <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
   <pubtit>{{ post.title }}</pubtit>
@@ -41,6 +41,5 @@ pagination:
     <a href="{{ paginator.next_page_path }}" class="next">Next &raquo;</a>
   {% endif %}
 </div>
-
 </div>
 </div>

@@ -17,10 +17,17 @@ jobs:
           ruby-version: '3.1.0'
           bundler-cache: true
 
+      # Add this step to unfreeze the bundle
+      - name: Unfreeze bundle
+        run: bundle config --local frozen false
+
+      - name: Install dependencies
+        run: bundle install
+
       - name: Build and Deploy
         uses: jeffreytse/jekyll-deploy-action@v0.5.1
         with:
           provider: 'github'
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: 'gh-pages'         # Default deployment branch
-          jekyll_src: './'           # Jekyll source directory
+          branch: 'gh-pages'
+          jekyll_src: './'
