@@ -1,10 +1,11 @@
 ---
-layout: news_item
+layout: post_item
 title: 50 Years ago today Canada started the Ugandan Refugee Operation
 date: '2022-09-29'
 source: Globe and Mail, 1972
 headline: Canadians Sacrifice Hockey to Receive Refugees
-pdf_link: /pdfs/news21.pdf
+pdf_link: "{ site.baseurl }/pdfs/news21.pdf"
+category: news
 ---
 
-[Ugandan Refugee Operation](/pdfs/news21.pdf)
+[Ugandan Refugee Operation]({{ site.baseurl }}/pdfs/news21.pdf)

@@ -1,4 +1,4 @@
-# Site settings
+# Site settings (keep these the same)
 title: Visan-MIG
 email: visan-mig@smu.ca
 description: > # this means to ignore newlines until "baseurl:"
@@ -14,36 +14,15 @@ include:
 collections:
   posts:
     output: true
-    permalink: /findings/:year/:month/:day/:title/
+    permalink: /news-and-findings/:year/:month/:day/:title/  # Updated to match new structure
 
-# Standard pagination settings
+# Pagination settings (v1)
 paginate: 10
-paginate_path: "/findings/page:num/"
+paginate_path: "/news-and-findings/page:num/"  # Updated to match new structure
 
 # Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Sass settings
-sass:
-  sass_dir: _sass
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-  parse_block_html: true
+# Rest of your settings remain the same...

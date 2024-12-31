@@ -1,10 +1,11 @@
 ---
-layout: news_item
+layout: post_item
 title: This week in 1870, Globe and Mail
 date: '2021-10-11'
 source: ''
 headline: Immigrant numbers are going down due to ineffective emigration agents!
-pdf_link: /%22%7B%7B%20site.baseurl%20%7D%7D/pdfs//pdfs/news5.pdf%22
+pdf_link: "{ site.baseurl }/pdfs/news5.pdf"
+category: news
 ---
 
-[Immigration](/%7B%7B%20site.baseurl%20%7D%7D/pdfs/news5.pdf)
+[Immigration]({{ site.baseurl }}/pdfs/news5.pdf)

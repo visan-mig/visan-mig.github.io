@@ -1,0 +1,49 @@
+---
+title: "News and Findings"
+layout: gridlay
+excerpt: "News and Findings"
+sitemap: false
+pagination: 
+  enabled: true
+---
+
+<div class="col-sm-12">
+  <h1>News and Findings</h1>
+</div>
+
+<div class="row">
+  <div class="col-sm-12 clearfix">
+    {% assign all_posts = paginator.posts | sort: 'date' | reverse %}
+    {% for post in all_posts %}
+    <div class="post-card {{ post.category }}">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+        <div class="post-header">
+          <div class="date">{{ post.date | date: "%-d %B %Y" }}</div>
+          <div class="category-tag {{ post.category }}">{{ post.category }}</div>
+        </div>
+        
+        <h2>{{ post.title }}</h2>
+        
+        {% if post.source %}
+          <div class="source">{{ post.source }}: "{{ post.headline }}"</div>
+        {% endif %}
+      </a>
+    </div>
+    {% endfor %}
+
+    <!-- Pagination links -->
+    <div class="pagination text-center">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">&laquo; Previous</a>
+      {% endif %}
+      
+      <span class="page_number">
+        Page {{ paginator.page }} of {{ paginator.total_pages }}
+      </span>
+
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">Next &raquo;</a>
+      {% endif %}
+    </div>
+  </div>
+</div>

@@ -1,10 +1,11 @@
 ---
-layout: news_item
+layout: post_item
 title: Emigrant Poem in Globe and Mail
 date: '2021-09-08'
 source: ''
 headline: ''
-pdf_link:
+pdf_link: "{ site.baseurl }"
+category: findings
 ---
 
 An Emigrant's Farewell  

@@ -1,10 +1,11 @@
 ---
-layout: news_item
+layout: post_item
 title: 27 years ago (Globe and Mail) Significant Treasures
 date: '2022-04-18'
 source: ''
 headline: Ukrainian Tradition of Decorating Eggs
-pdf_link: /pdfs/news%2015.pdf
+pdf_link: "{ site.baseurl }/pdfs/news 15.pdf"
+category: news
 ---
 
-[Ukrainian tradition of decorating eggs](/pdfs/news%2015.pdf)
+[Ukrainian tradition of decorating eggs]({{ site.baseurl }}/pdfs/news 15.pdf)

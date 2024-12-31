@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<div class="post-container">
+  <article class="post-article">
+    <!-- Header Section -->
+    <header class="post-header">
+      <div class="meta-info">
+        <time class="post-date">{{ page.date | date: "%-d %B %Y" }}</time>
+        {% if page.category %}
+          <div class="category-tag {{ page.category | downcase }}">{{ page.category }}</div>
+        {% endif %}
+      </div>
+
+      <h1 class="post-title">{{ page.title }}</h1>
+
+      {% if page.source %}
+        <div class="post-source">
+          <cite>{{ page.source }}: "{{ page.headline }}"</cite>
+        </div>
+      {% endif %}
+    </header>
+
+    <!-- Main Content -->
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+    <!-- Navigation -->
+    <nav class="clearfix" style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee;">
+      <div class="row">
+        <div class="col-xs-4 text-left">
+          {% if page.previous %}
+            <a href="{{ page.previous.url }}" class="btn btn-default">← Previous</a>
+          {% endif %}
+        </div>
+
+        <div class="col-xs-4 text-center">
+          <a href="{{ site.baseurl }}/news-and-findings" class="btn btn-default">All Posts</a>
+        </div>
+
+        <div class="col-xs-4 text-right">
+          {% if page.next %}
+            <a href="{{ page.next.url }}" class="btn btn-default">Next →</a>
+          {% endif %}
+        </div>
+      </div>
+    </nav>
+  </article>
+</div>
