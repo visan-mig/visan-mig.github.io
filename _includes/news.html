@@ -1,12 +1,12 @@
 <div class="well">
     <h4>Findings</h4>
     
-    {% assign sorted_news = site.news_items | sort: 'date' | reverse %}
-    {% for article in sorted_news limit:9 %}
+    {% assign sorted_findings = site.posts | sort: 'date' | reverse %}
+    {% for article in sorted_findings limit:9 %}
     {{ article.date | date: "%-d %B %Y" }}
     <p><b><a href="{{ article.url }}">{{ article.title }}</a></b></p>
     {% endfor %}
     
     <h4><a href="{{ site.url }}{{ site.baseurl }}/findings">... see all Findings</a></h4>
     
-    </div>
+</div>
