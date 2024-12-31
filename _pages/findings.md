@@ -1,13 +1,15 @@
 ---
-title: "VisAn-MIG - News"
+title: "VisAn-MIG - Findings"
 layout: gridlay
-excerpt: "VisAn-MIG -- News."
+excerpt: "VisAn-MIG -- Findings."
 sitemap: false
-permalink: /
+permalink: /findings/
+pagination: 
+  enabled: true
 ---
 
 <div class="col-sm-12">
-<h1>News</h1>
+<h1>Findings</h1>
 </div>
 
 <div class="row">
